@@ -1,0 +1,11 @@
+Appointment Scheduling Policy
+
+Patients may schedule appointments online, by phone, or in person.
+
+Routine appointments should be booked at least 48 hours in advance.
+
+Cardiology appointments are available Monday through Friday.
+
+Same-day appointments depend on provider availability.
+
+Appointment cancellations should be made at least 24 hours before the scheduled visit.

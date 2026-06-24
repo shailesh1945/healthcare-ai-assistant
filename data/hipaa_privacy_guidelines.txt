@@ -1,0 +1,9 @@
+HIPAA Privacy Guidelines
+
+Protected Health Information (PHI) must not be shared without patient authorization.
+
+Only authorized healthcare personnel may access patient records.
+
+Patient information must be stored securely.
+
+HIPAA violations may result in disciplinary action.
